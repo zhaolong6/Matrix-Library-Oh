@@ -1,6 +1,6 @@
 ## Matrix-Library-Oh
 
-**Task** :  Implement A small library in C++ using expression templates and Modern C++11/14/17 features.:
+**Task** :  Implement A small library in C++ using expression templates and Modern C++11/14/17 features:
 
 * represent a matrix of numerical types (int, long, float, double, complex,....)
 * compute algebraic expressions including
