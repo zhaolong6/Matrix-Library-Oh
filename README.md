@@ -9,6 +9,6 @@ and the standard matrix multiplication using the most simple algorithm with an o
 * fit in one header file
 * provides a test program which measures the speed of execution for each examples provided
 
-**Required Results**: final report (documentation); source code; a demo program using this library  
-**Evaluation**: mid-term oral presentation; final presentation with final report  
+
 **Time**: one month
+
